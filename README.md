@@ -26,3 +26,5 @@ Invite it using your bot invite link, and it should work! (Please note, that you
 This bot was built using Discord.js v13.12.0 LTS, so download that one. The bot will not say "Ready!" in the console when it turns on, so don't panic if you don't see any console output and just try and test it. It will NOT give you a developer badge, since it does not use slash commands.
 ### Issues
 Even when requesting only one verse, the bot still sets the title of embed as "BOOKNAME 1:1-1", i am working on a fix right now. If you notice any other issues, please post about it here.
+## Example usage
+![example usage](https://cdn.discordapp.com/attachments/1041436988382924883/1075379234039664660/image.png)
