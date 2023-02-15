@@ -21,7 +21,7 @@ Create a bot in the [Discord Developer Portal](https://discord.com/developers/ap
 ```bash
 node bot.js
 ```
-Invite it using your bot invite link, and it should work!
+Invite it using your bot invite link, and it should work! (Please note, that you need to check Message Content Intent in the bot section of your application)
 ### Disclaimer 
 This bot was built using Discord.js v13.12.0 LTS, so download that one. The bot will not say "Ready!" in the console when it turns on, so don't panic if you don't see any console output and just try and test it. It will NOT give you a developer badge, since it does not use slash commands.
 ### Issues
